@@ -22,7 +22,7 @@
 ## Usage
 
 ```bash
-./get_users.sh <CUCM_host> [port] [-debug] [-h]
+./cucm_thief_bash.sh <CUCM_host> [port] [-debug] [-h]
 ```
 
 ### Arguments
